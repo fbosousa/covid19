@@ -12,6 +12,7 @@ Bases de dados para o projeto Covid 19, disponíveis para diferentes estados.
 - [Observatorio Fluminense](https://github.com/americocunhajr/COVID19RJ)
 - [Portal da Transparência ](https://transparencia.registrocivil.org.br/especial-covid)
 - [COVID19 e-SUS-VE Síndrome Gripal (SG) TABNET SP](http://tabnet.saude.prefeitura.sp.gov.br/cgi/deftohtm3.exe?secretarias/saude/TABNET/RCOVID19/covid19.def)
+- [Coronavírus no Estado do Pará](https://www.covid-19.pa.gov.br/)
 
 
 

@@ -13,6 +13,7 @@ Bases de dados para o projeto Covid 19, disponíveis para diferentes estados.
 - [Portal da Transparência ](https://transparencia.registrocivil.org.br/especial-covid)
 - [COVID19 e-SUS-VE Síndrome Gripal (SG) TABNET SP](http://tabnet.saude.prefeitura.sp.gov.br/cgi/deftohtm3.exe?secretarias/saude/TABNET/RCOVID19/covid19.def)
 - [Coronavírus no Estado do Pará](https://www.covid-19.pa.gov.br/)
+- [Online Portal for COVID-19 Modeling Research](https://midasnetwork.us/covid-19/)
 
 
 

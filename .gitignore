@@ -1,2 +1,17 @@
 
 data/BR/HIST_PAINEL_COVIDBR_28out2020.csv
+autocovdownloader.py
+covid19_rj.png
+covid19_sp.png
+covid19_sp_bairros_2.jpg
+data/BR/cases-brazil-cities.csv
+data/2020_BR_Region_Mobility_Report.csv
+data/RJ/esus-vepi.LeitoOcupacao.csv
+data/RJ/outbreakinfo_mutation_report_data_2021-05-12.tsv
+data/RJ/OxCGRT_latest.csv
+data/SP/HC_Janeiro2021.zip
+data/SP/pop_bairros_sp.csv
+dataframe_report.html
+output/covid19_sp_bairros.png
+output/covid19_sp_bairros_1.jpg
+data/PA/todos_os_casos.csv
